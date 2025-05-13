@@ -3,15 +3,15 @@
 # Hi there, I'm Sonia 👋🏾
 
 # 💫 About Me:
-- 🔭 I’m currently working on:  Building my first responsive website using HTML, CSS, and JavaScript. The focus is on creating a personal portfolio that showcases my projects and skills in a visually appealing way.<br>
+- 🔭 I’m currently working on:  Working on an Integrated Project that includes Machine Learning, Statistics and Data Preparation. The focus is on creating a personal portfolio that showcases my projects and skills in a visually appealing way.<br>
 
-- 👯 I’m looking to collaborate on: Any open-source projects that are beginner-friendly. I am eager to contribute to web development projects and learn from the community.<br>
+- 👯 I’m looking to collaborate on: Any machine learning open-source projects that are beginner-friendly. I am eager to contribute to machine learning projects and learn from the community.<br>
 
-- 🤝 I’m looking for help with: Understanding more advanced JavaScript concepts and frameworks. Any mentorship or guidance on using React.js would be highly appreciated.<br>
+- 🤝 I’m looking for help with: Understanding more advanced Machine Learning concepts and frameworks. Any mentorship or guidance on using React.js would be highly appreciated.<br>
 
 - 🌱 I’m currently learning: Data Analytics.<br>
 
-- 💬 Ask me about: HTML, CSS, and any tips on web design for beginners. I'm also learning about web accessibility and would love to discuss best practices for making the web accessible to all.<br>
+- 💬 Ask me about: HTML, CSS, and any tips on web design. I'm also learning about web accessibility and would love to discuss best practices for making the web accessible to all.<br>
 
 - ⚡ Fun fact: Photography in spare time.<br>
 
