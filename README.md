@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with: Understanding more advanced Machine Learning concepts and frameworks. Any mentorship or guidance on using React.js would be highly appreciated.<br>
 
-- 🌱 I’m currently learning: Data Analytics.<br>
+- 🌱 I’m currently learning: Data Analytics and Project Management.<br>
 
 - 💬 Ask me about: HTML, CSS, and any tips on web design. I'm also learning about web accessibility and would love to discuss best practices for making the web accessible to all.<br>
 
