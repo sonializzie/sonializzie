@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on: Any machine learning open-source projects that are beginner-friendly. I am eager to contribute to machine learning projects and learn from the community.<br>
 
-- 🤝 I’m looking for help with: Understanding more advanced Machine Learning concepts and frameworks. Any mentorship or guidance on using React.js would be highly appreciated.<br>
+- 🤝 I’m looking for help with: Understanding more advanced Machine Learning concepts and frameworks. Any mentorship or guidance on using React.js and Python would be highly appreciated.<br>
 
-- 🌱 I’m currently learning: Data Analytics and Project Management.<br>
+- 🌱 I’m currently learning: Data Governance, Ethics and Sustainability and Principals of AI.<br>
 
 - 💬 Ask me about: HTML, CSS, and any tips on web design. I'm also learning about web accessibility and would love to discuss best practices for making the web accessible to all.<br>
 
