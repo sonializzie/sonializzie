@@ -28,15 +28,18 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sonializzie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonializzie&theme=tokyonight&hide_border=false" width="49%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonializzie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" />
-
-</div>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonializzie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sonializzie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="100%" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonializzie&theme=tokyonight&hide_border=false" width="100%" />
+</td>
+</tr>
+</table>
 
 
 <!--
